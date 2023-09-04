@@ -1,0 +1,20 @@
+{
+  "name": "fashcraft-discord-bot",
+  "version": "1.0.0",
+  "description": "A multifunction Javascript discord bot",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  }
+}
